@@ -1,0 +1,3 @@
+# AdvancedAI: Medical Text Generation and Evaluation
+
+This repository contains experiments focused on generating and evaluating medical diagnoses from clinical notes using large language models (LLMs). The project includes data preparation, prompting and evaluation pipelines using models such as BiomedLM and LLaMA 4
